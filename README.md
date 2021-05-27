@@ -11,5 +11,5 @@ LICENSE:
 
 INSTRUCTIONS:
 
-1. Load the required data (see 'sampleWorkspace.mat' and 'mSampleWorkspace.mat' as examples for two-class and multi-class datasets, respectively.) in the MATLAB workspace.
-2. Run 'LexiBoost.m' for two-class or multi-class problems.
+1. Load the required data file 'sampleWorkspace.mat' (this is a two-class data set, currently multi-class code is not available) in the MATLAB workspace.
+2. Run 'LexiBoost.m'.
